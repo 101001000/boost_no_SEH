@@ -397,7 +397,7 @@
 	path = libs/asio
 	url = https://github.com/101001000/asio_no_SEH.git
 	fetchRecurseSubmodules = on-demand
-	branch = .
+	branch = develop
 [submodule "uuid"]
 	path = libs/uuid
 	url = https://github.com/boostorg/uuid.git
